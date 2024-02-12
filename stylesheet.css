@@ -294,16 +294,3 @@ footer{
     gap: 30px;
 }
 
-@media (max-width:500px) {
-    body{
-        font-size: 0.5rem;
-    }
-    .container{
-    flex-direction: column;
-    }
-    
-    .gallary{
-       width: 100%;
-       
-    }
-}
